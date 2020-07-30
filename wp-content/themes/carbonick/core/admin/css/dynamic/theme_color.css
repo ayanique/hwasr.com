@@ -1,0 +1,403 @@
+/* ==================== ##Primary Color Styles ==================== */
+
+blockquote:before,
+.theme-primary-color,
+.wgl-animate_bg div span,
+a,
+a:hover .wgl-icon, .wgl-icon:hover,
+body ol > li:before,
+button,
+button:focus, button:active,
+h3#reply-title a:hover,
+ul li:before,
+ul.carbonick_check li:before,
+header.searсh-header .page-title span,
+#comments > h3 span,
+#comments .commentlist .comment_info .meta-wrapper .comment-edit-link,
+.woocommerce .woocommerce-pagination ul.page-numbers li a.next:hover,
+.woocommerce .woocommerce-pagination ul.page-numbers li a.prev:hover,
+.woocommerce-page .woocommerce-pagination ul.page-numbers li a.next:hover,
+.woocommerce-page .woocommerce-pagination ul.page-numbers li a.prev:hover,
+.wgl-pagination .page-numbers.next:hover,
+.wgl-pagination .page-numbers.prev:hover,
+.author-info_social-wrapper,
+.primary-nav > ul > li > a:before,
+body .wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item:hover a span,
+.blog-post_link:before,
+.blog-post_title i,
+.blog-style-standard .blog-post:hover .blog-post_wrapper .blog-post_meta_info .meta-wrapper span,
+.blog-post_link>.link_post:hover,
+.blog-post.format-standard.link .blog-post_title:before,
+.blog-post_title a:hover,
+.button-read-more,
+.post_featured_bg .meta-wrapper a:hover,
+.blog-style-hero .blog-post_title a:hover,
+.blog-post.format-quote .blog-post_quote-author,
+.blog-post.format-quote .blog-post_quote-text:before,
+.calendar_wrap thead,
+.wp-block-calendar thead,
+.copyright a:hover,
+.comment_author_says a:hover,
+.carbonick_submit_wrapper:hover > i,
+.carbonick_custom_button i,
+.carbonick_custom_text a,
+.carbonick_twitter a,
+.load_more_works:hover,
+.header_search .header_search-button > i:hover,
+.header_search-field .search-form:after,
+.mc_form_inside #mc_signup_submit:hover,
+.share_link span.fab:hover,
+.share_post span.fab:hover,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.single_team_page .team-info_wrapper .team-info_item a:hover,
+.single-member-page .member-icon:hover,
+.single-member-page .team-link:hover,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.single_team_page .team__icons a:hover,
+.team-icons .member-icon:hover,
+.vc_wp_custommenu .menu .menu-item.current-menu-item > a,
+.vc_wp_custommenu .menu .menu-item.current-menu-ancestor > a,
+.button-read-more,
+.wpml-ls a:hover,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language:hover > a,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language a:hover,
+.single.related_posts .blog-post_title a:hover,
+.wgl-social-share_pages.hovered_style ul li a:hover,
+.isotope-filter a:after,
+.meta-wrapper a:hover,
+.blog-style-standard .blog-post .blog-post_meta-wrap .meta-info-wrap .post_comments a:hover,
+.wgl-likes .sl-button:hover,
+.share_post-container:hover > a,
+.inside_image.sub_layer_animation .post_cats a, .inside_image.sub_layer_animation .post_cats span,
+ul.wp-block-archives.wp-block-archives-list li:hover:before,
+ul.wp-block-categories.wp-block-categories-list li:hover:before,
+ul.wp-block-latest-posts li:hover:before,
+.format-quote .blog-post_wrapper .blog-post_media_part:before{
+	color: $theme_primary_color;
+}
+
+/* ↓ modules styles ↓ */
+.wgl-portfolio-item_wrapper .portfolio_link-icon:hover,
+.wgl-portfolio-item_cats,
+body .comment-respond .comment-form [class*="wgl_col-"].logged-in-as a:hover,
+body .comment-respond .comment-form > p.logged-in-as a:hover,
+#comments .commentlist .comment .stand_comment .meta-wrapper .comment-edit-link:hover,
+.wgl_module_team .team-department,
+.wgl_module_team.inside_image .team-item_wrap:hover .team-department,
+.single-team .single_team_page .team-info_item.team-department span,
+.under_image .portfolio__item-title .title:hover a,
+.inside_image.sub_layer_animation .portfolio__item-meta,
+.wgl-portfolio_container .wgl-carousel.arrows_center_mode .slick-prev:hover:after, .wgl-portfolio_container .wgl-carousel.arrows_center_mode .slick-next:hover:after,
+.inside_image .portfolio__item-meta,
+.wgl-portfolio-single_wrapper .wgl-portfolio-item_cats a:hover,
+.wgl_module_team .team-item_info .team__icons .team-icon a:hover,
+.wgl-services-6 .wgl-services_media-wrap .elementor-icon,
+.elementor-widget.divider_yes .wgl-infobox_title:before,
+.row .wgl-portfolio-list_item .portfolio__item-meta .portfolio-category,
+.elementor-widget-wgl-double-headings.divider_yes .wgl-double_heading .dbl-title_wrapper:before {
+	color: $theme_primary_color;
+}
+/* ↑ modules styles ↑ */
+
+/* ↓ widget styles ↓ */
+.search__icon,
+.widget ul li a:hover,
+.widget_categories ul li a:hover .post_count, 
+.widget_product_categories ul li a:hover .post_count,
+.header_search .header_search-field .search__icon,
+.widget_rss ul li .rsswidget:hover,
+.widget_recent_entries  ul li .post-date,
+.widget_meta ul li .post_count, 
+.widget_archive ul li > a:before,
+.widget .widget-title .widget-title_wrapper:before,
+.widget_nav_menu .current-menu-ancestor > a,
+.widget_nav_menu .current-menu-item > a,
+.widget_product_categories a:hover + .post_count, 
+.widget_meta a:hover + .post_count, 
+.widget_archive a:hover .post_count,
+ul.wp-block-latest-posts li a:hover,
+ul.wp-block-archives.wp-block-archives-list li a:hover,
+ul.wp-block-archives.wp-block-archives-list li a:hover .post_count,
+ul.recent-posts-widget li > .recent-posts-content .post_title a:hover,
+.recent-posts-widget .meta-wrapper a,
+.carbonick_widget ul > li:hover:before,
+.widget.carbonick_widget.carbonick_banner-widget .banner-widget_text .tags_title:after,
+.widget.widget_recent_comments ul li span.comment-author-link a:hover,
+.wgl-filter a .number_filter{
+	color: $theme_primary_color;
+}
+
+.widget .widget-title:before,
+aside > .widget + .widget:before,
+.search-button:hover + .search__icon,
+body .widget_search .search-form .search-button:hover ~ .search__icon,
+.header_search .header_search-field .search-button:hover ~ .search__icon,
+.widget_product_search .woocommerce-product-search button:hover,
+.widget_meta ul li a:hover:after,
+.widget_archive ul li a:hover:after,
+.widget_product_categories ul li a:hover:before,
+.widget_archive ul li a:before,
+.widget .calendar_wrap table td#today:before,
+.widget .calendar_wrap tbody td > a:before,
+.wp-block-calendar table td#today:before,
+.wp-block-calendar tbody td > a:before,
+.widget .counter_posts,
+.widget.widget_pages ul li a:before,
+.widget.widget_nav_menu ul li a:before,
+.widget_nav_menu .menu .menu-item:hover:before,
+.widget_postshero .recent-posts-widget .post_cat a,
+.widget_meta ul li > a:before,
+.widget_archive ul li > a:before,
+.woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item:hover::before{
+	background-color: $theme_primary_color;
+}
+/* ↑ widget styles ↑ */
+
+header .header-link:hover,
+.hover_links .wgl-infobox_content a:hover {
+	color: $theme_primary_color !important;
+}
+
+/* ==================== ##End Color Styles ==================== */
+
+/* ==================== ##Background Styles ==================== */
+
+ul li:before,
+.widget_pages ul li:hover:before,
+ul.carbonick_plus li:after,
+ul.carbonick_plus li:before,
+ul.carbonick_hyphen li:before,
+ul.carbonick_dot li:before,
+ul.carbonick_square li:before,
+#multiscroll-nav span,
+#multiscroll-nav li .active span,
+.dropcap-bg,
+.coming-soon_form .wpcf7 .wpcf7-submit,
+.elementor-widget-text-editor.elementor-drop-cap-view-default span.elementor-drop-cap,
+.load_more_wrapper .load_more_item:hover,
+.single_team_page .team-title:before,
+.blog-style-hero .post_meta-wrap,
+.blog-style-hero .btn-read-more .blog-post-read-more,
+.blog-style-hero .blog-post .wgl-video_popup,
+.carbonick_module_double_headings .heading_title .heading_divider, 
+.carbonick_module_double_headings .heading_title .heading_divider:before, 
+.carbonick_module_double_headings .heading_title .heading_divider:after,
+.wpml-ls-legacy-dropdown .wpml-ls-sub-menu .wpml-ls-item a span:before,
+.wgl-portfolio-item_wrapper .wgl-portfolio-item_icon:hover,
+.portfolio__see-more i,
+ul.wp-block-categories.wp-block-categories-list li a:hover:after,
+.wpcf7 .demo-1-form .wpcf7-submit,
+.wgl_module_team .team__icons a:hover{
+	background: $theme_primary_color;
+}
+
+.blog-post.format-video .stick-bot-center .videobox_content .videobox_link svg{
+	fill: $theme_primary_color;
+}
+
+::selection,
+#comments > h3:after,
+button:hover,
+mark,
+span.highlighter,
+.page_404_wrapper-container .page_404_wrapper__inner:before,
+.vc_wp_custommenu .menu .menu-item a:before,
+.header_search .header_search-field .header_search-button-wrapper,
+.header_search.search_mobile_menu .header_search-field .search-form:after,
+.wgl-theme-header .wgl-button.elementor-button,
+.sitepress_container > .wpml-ls ul ul li a:hover:after,
+.blog-style-hero .blog-post-hero_wrapper .divider_post_info,
+.button__wrapper:hover:after,
+.calendar_wrap caption,
+.wp-block-calendar caption,
+.comment-reply-title:after,
+.carbonick_module_title:after,
+.carbonick_module_title .carousel_arrows a:hover span,
+.wgl_cpt_section .carousel_arrows span[class*="slick_arrow"]:hover,
+.load_more_works,
+.mc_form_inside #mc_signup_submit,
+.wgl-social-share_pages.hovered_style .share_social-icon-plus,
+.wgl-ellipsis span,
+.wgl_module_title.item_title .carousel_arrows a:hover,
+.wgl_module_team .team-meta_info .line,
+.wgl_module_team .team-item_info:before,
+.single-team .single_team_page .team-info_item.team-department:before,
+.wgl-social-share_pages.standard_style a:before,
+.wgl-portfolio_item_link:hover,
+.elementor-slick-slider .slick-slider .slick-prev:hover, .elementor-slick-slider .slick-slider .slick-next:hover, 
+.elementor-slick-slider .slick-slider .slick-prev:focus, .elementor-slick-slider .slick-slider .slick-next:focus,
+.wgl-video_popup .videobox_link:hover,
+.woocommerce .woocommerce-pagination ul.page-numbers li span.current:after,
+.woocommerce-page .woocommerce-pagination ul.page-numbers li span.current:after,
+.woocommerce .woocommerce-pagination ul.page-numbers li a:before,
+.woocommerce .woocommerce-pagination ul.page-numbers li span:before,
+.woocommerce-page .woocommerce-pagination ul.page-numbers li a:before,
+.woocommerce-page .woocommerce-pagination ul.page-numbers li span:before,
+.wgl-pagination .page-numbers.current:after,
+.wgl-pagination .page-numbers:before,
+.page-link .post-page-numbers.current:after,
+.page-link .post-page-numbers:before{
+	background-color: $theme_primary_color;
+}
+
+/* ==================== ##End Background Styles ==================== */
+
+/* ==================== ##Background and Border Styles ==================== */
+
+.blog-post_meta-date,
+input[type='submit']:hover,
+input[type='submit']:focus,
+input[type='submit']:active,
+button:hover,
+button:focus,
+button:active,
+.slider-wrapper.wgl-carousel .blog-post_media-slider_slick .slick-arrow:hover,
+.wgl-carousel.navigation_offset_element .slick-prev:hover,
+.wgl-carousel.navigation_offset_element .slick-next:hover,
+.carbonick_module_demo_item .di_button a,
+.next-link:hover,
+.prev-link:hover,
+.wpcf7 .call_to_action_1 .wgl_col-2 .wpcf7-submit:hover,
+form.post-password-form input[type='submit'],
+.wgl-demo-item .wgl-button:hover,
+.tagcloud a:hover,
+.wp-block-tag-cloud a:hover,
+.single_info-share_social-wpapper .share_link:hover span, 
+.single_info-share_social-wpapper .share_post:hover span,
+.page_404_wrapper .carbonick_404__link:hover,
+.prev-link_wrapper .info_wrapper a .image_prev:after, 
+.next-link_wrapper .info_wrapper a .image_next:after,
+.single-team .single_team_page .team__icons .team-icon:hover,
+.author-widget_social a:hover,
+.load_more_wrapper .load_more_item:hover,
+.wgl-demo-item .wgl-button,
+.carbonick_banner-widget .banner-widget_button .button-read-more{
+	border-color: $theme_primary_color;
+	background: $theme_primary_color;
+} 
+
+/* ==================== ##End Background and Border Styles ==================== */
+
+/* ==================== ##Border Styles ==================== */
+
+input[type='submit'],
+button,
+.wpcf7 .wpcf7-submit,
+.load_more_item,
+.header_search,
+.carbonick_module_title .carousel_arrows a:hover span:before,
+.load_more_works,
+.author-widget_social a span,
+.single_info-share_social-wpapper .share_link .share-icon_animation,
+.inside_image.offset_animation:before,
+.carbonick_module_videobox .videobox_link,
+.carbonick_module_products_special_cats .product_special_cats-image_wrap:before,
+.wpcf7 .call_to_action_1 .wgl_col-2 .wpcf7-submit,
+.wpcf7 .wpcf7-submit,
+.wgl-portfolio_item_link,
+.tagcloud a:hover,
+.wp-block-tag-cloud a:hover,
+.wgl-services-3 .wgl-services_title,
+.single-team .single_team_page .team-image_wrap:before,
+.wgl_cpt_section .carousel_arrows span[class*="slick_arrow"],
+.page_404_wrapper .carbonick_404__button .carbonick_404__link,
+.prev-link_wrapper .info_wrapper .image_prev.no_image:before, .next-link_wrapper .info_wrapper .image_next.no_image:before,
+.woocommerce.single div.product .woocommerce-product-gallery .flex-control-thumbs img.flex-active,
+.woocommerce.single div.product .woocommerce-product-gallery .flex-control-thumbs img:hover,
+.dropcap-bg,
+.elementor-widget-text-editor.elementor-drop-cap-view-default span.elementor-drop-cap{
+	border-color: $theme_primary_color;
+}
+
+/* ==================== ##End Border Styles ==================== */
+
+/* ==================== ##Theme Secondary Color Styles ==================== */
+
+a:hover,
+.author-info_social-link.fa-instagram,
+.portfolio__custom-annotation .single_info-share_social-wpapper .share_link:hover .fab,
+body .comment-respond .comment-form .logged-in-as,
+#comments .comment-reply-link,
+#comments #cancel-comment-reply-link,
+blockquote cite a,
+.blog-post_link:before,
+.blog-posts .blog-post_title > a:hover,
+.blog-post.format-link .blog-post_link .link_post:before,
+.blog-style-hero .blog-post .blog-post-hero_wrapper .blog-post-hero_content .blog-post_title a:hover,
+.blog-style-hero .blog-post.format-no_featured .blog-post-hero_wrapper .blog-post-hero_content .blog-post_title a:hover,
+.isotope-filter a:hover, .isotope-filter a.active,
+.wgl_module_team .team-icon a,
+.post_meta-wrap > div a:hover,
+.page-header_breadcrumbs .breadcrumbs > a:hover,
+.post_featured_bg .meta-wrapper span.post_author a:hover,
+.post_featured_bg .meta-wrapper span.post_comments a:hover,
+.elementor-widget-container .elementor-swiper-button i{
+	color: $theme_primary_color;
+}
+
+.wgl-theme-header .lavalamp-object,
+.prev-link_wrapper a:hover .image_prev [class|=text], .next-link_wrapper a:hover .image_next [class|=text],
+.prev-link_wrapper .image_prev.no_image [class|=text], .next-link_wrapper .image_next.no_image [class|=text],
+.share_post-container .share_social-wpapper,
+.wgl_module_team .team__icons:hover .team__icons-plus,
+.wgl_module_team .team__icons-plus:before, .wgl_module_team .team__icons-plus:after,
+.elementor-slick-slider .slick-slider .slick-next, .elementor-slick-slider .slick-slider .slick-prev,
+.post_meta-categories span a,
+.wgl-carousel .slick-arrow:hover,
+.elementor-widget-container .elementor-swiper-button:hover,
+.wgl_module_team .team-icon,
+.wgl-carousel .slick-dots li button:before,
+body .select2-container--default .select2-results__option--highlighted[aria-selected],
+body .select2-container--default .select2-results__option--highlighted[data-selected]{
+	background: $theme_primary_color;
+}
+.share_post-container .share_social-wpapper:after{
+	border-top-color: $theme_primary_color;
+}
+
+
+/* ↓ navigation styles ↓ */
+.primary-nav ul li ul:not(.mega-menu) li.menu-item-has-children:hover > a > span + i.menu-item__plus,
+.primary-nav ul li ul .menu-item:hover > a,
+.primary-nav > ul ul .menu-item.current-menu-item > a, .primary-nav > ul ul .menu-item.current_page_item > a,
+.primary-nav ul ul > li.current-menu-ancestor > a, .primary-nav ul ul > li.current_page_ancestor > a,
+.primary-nav ul ul > li.current-menu-ancestor > a > span + i.menu-item__plus, .primary-nav ul ul > li.current_page_ancestor > a > span + i.menu-item__plus,
+.primary-nav ul ul > li.current-menu-parent > a, .primary-nav ul ul > li.current_page_parent > a,
+.primary-nav ul ul:not(.mega-menu) > li.current-menu-parent > a > span + i.menu-item__plus, .primary-nav ul ul:not(.mega-menu) > li.current_page_parent > a > span + i.menu-item__plus,
+.mobile_nav_wrapper .primary-nav ul li ul .menu-item.current-menu-item > a,
+.mobile_nav_wrapper .primary-nav ul ul li.menu-item.current-menu-ancestor > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current-menu-item > a, .mobile_nav_wrapper .primary-nav > ul > li.current_page_item > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current-menu-parent > a, .mobile_nav_wrapper .primary-nav > ul > li.current-menu-ancestor > a,
+.mobile_nav_wrapper .primary-nav > ul > li.current_page_parent > a, .mobile_nav_wrapper .primary-nav > ul > li.current_page_ancestor > a {
+	color: $theme_primary_color;
+}
+.primary-nav ul li.mega-menu.mega-cat div.mega-menu-container ul.mega-menu.cats-horizontal > li.is-active > a,
+.wpcf7 .demo-1-form .wpcf7-submit:hover {
+	background: $theme_primary_color;
+}
+/* ↑ navigation styles ↑ */
+
+/* ==================== ## Theme Secondary Color Styles ==================== */
+.theme-secondary-color,
+ul.carbonick_check.secondary li:before,
+.wgl-animate_bg div:nth-child(odd) span:nth-child(odd),
+.wgl-animate_bg div:nth-child(even) span:nth-child(even){
+	color: $theme_secondary_color;
+}
+
+span.highlighter.secondary,
+ul.carbonick_dot.secondary li:before,
+ul.carbonick_square.secondary li:before,
+ul.carbonick_hyphen.secondary li:before,
+ul.carbonick_plus.secondary li:after,
+ul.carbonick_plus.secondary li:before{
+	background: $theme_secondary_color;
+	border-color: $theme_primary_color;
+}
+ 
+/* ==================== ##End Theme Secondary Color Styles ==================== */
+
+/* ==================== ##Additional Styles ==================== */
+
+
+/* ==================== ##End Additional Styles ==================== */

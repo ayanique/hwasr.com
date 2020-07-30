@@ -1,0 +1,97 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://hwasr:90
+Data file = /Users/amoryac/Documents/Work/hwasr/wp-content/uploads/2020/07/autoshop.xml
+Widget file = /Users/amoryac/Documents/Work/hwasr/wp-content/uploads/2020/07/autoshop.wie
+Customizer file = /Users/amoryac/Documents/Work/hwasr/wp-content/uploads/2020/07/autoshop.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+AFTSC Author Info - No Title - Imported
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+AFTSC Social Contacts - No Title - Imported
+
+Off-canvas Panel : 
+
+Product Categories - No Title - Imported
+Products - Latest Products - Imported
+
+Static Frontpage Section : 
+
+AFTSC Store Features - No Title - Imported
+AFTSC Product Carousel - No Title - Imported
+AFTSC Product Category Grid - No Title - Imported
+AFTSC Tabbed Products Carousel - No Title - Imported
+AFTSC Call to Action - No Title - Imported
+AFTSC Product Grid - No Title - Imported
+
+Store Sidebar : 
+
+Filter Products by Price - No Title - Imported
+Image - Advertisement - Imported
+Products - Latest Products - Imported
+Products by Rating - Top rated products - Imported
+
+Footer First Section : 
+
+Products - Latest Products - Imported
+
+Footer Second Section : 
+
+Products - Featured Products - Imported
+
+Footer Third Section : 
+
+Products - On-sale Products - Imported
+
+Above Footer Section : 
+
+AFTSC Store Features - No Title - Imported
+AFTSC Call to Action - No Title - Imported
+AFTSC Tabbed Products Carousel - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

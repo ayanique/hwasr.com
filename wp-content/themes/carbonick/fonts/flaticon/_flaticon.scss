@@ -1,0 +1,184 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 01/11/2019 16:08
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-ui:before { content: "\f100"; }
+.flaticon-commerce-and-shopping:before { content: "\f101"; }
+.flaticon-commerce-and-shopping-1:before { content: "\f102"; }
+.flaticon-setup:before { content: "\f103"; }
+.flaticon-phone:before { content: "\f104"; }
+.flaticon-map:before { content: "\f105"; }
+.flaticon-arrow:before { content: "\f106"; }
+.flaticon-expand-button:before { content: "\f107"; }
+.flaticon-back:before { content: "\f108"; }
+.flaticon-cross:before { content: "\f109"; }
+.flaticon-motor:before { content: "\f10a"; }
+.flaticon-wheel:before { content: "\f10b"; }
+.flaticon-car:before { content: "\f10c"; }
+.flaticon-oil:before { content: "\f10d"; }
+.flaticon-brake:before { content: "\f10e"; }
+.flaticon-key:before { content: "\f10f"; }
+.flaticon-tick:before { content: "\f110"; }
+.flaticon-sports-and-competition:before { content: "\f111"; }
+.flaticon-tire:before { content: "\f112"; }
+.flaticon-sports-and-competition-1:before { content: "\f113"; }
+.flaticon-turbo:before { content: "\f114"; }
+.flaticon-wrench:before { content: "\f115"; }
+.flaticon-oil-1:before { content: "\f116"; }
+.flaticon-dashboard:before { content: "\f117"; }
+.flaticon-car-1:before { content: "\f118"; }
+.flaticon-instagram:before { content: "\f119"; }
+.flaticon-quote:before { content: "\f11a"; }
+.flaticon-spare:before { content: "\f11b"; }
+.flaticon-motor-1:before { content: "\f11c"; }
+.flaticon-add-plus-button:before { content: "\f11d"; }
+.flaticon-plus-black-symbol:before { content: "\f11e"; }
+.flaticon-add:before { content: "\f11f"; }
+.flaticon-plus:before { content: "\f120"; }
+.flaticon-plus-1:before { content: "\f121"; }
+.flaticon-eye:before { content: "\f122"; }
+.flaticon-heart:before { content: "\f123"; }
+.flaticon-like:before { content: "\f124"; }
+.flaticon-eye-1:before { content: "\f125"; }
+.flaticon-comment-black-oval-bubble-shape:before { content: "\f126"; }
+.flaticon-play-arrow:before { content: "\f127"; }
+.flaticon-link:before { content: "\f128"; }
+.flaticon-link-1:before { content: "\f129"; }
+.flaticon-chain:before { content: "\f12a"; }
+.flaticon-link-2:before { content: "\f12b"; }
+.flaticon-link-3:before { content: "\f12c"; }
+.flaticon-share:before { content: "\f12d"; }
+.flaticon-chat:before { content: "\f12e"; }
+.flaticon-user:before { content: "\f12f"; }
+.flaticon-user-1:before { content: "\f130"; }
+.flaticon-chat-1:before { content: "\f131"; }
+.flaticon-automaton:before { content: "\f132"; }
+.flaticon-gear:before { content: "\f133"; }
+.flaticon-ui-1:before { content: "\f134"; }
+.flaticon-mission:before { content: "\f135"; }
+.flaticon-focus:before { content: "\f136"; }
+.flaticon-vision:before { content: "\f137"; }
+.flaticon-tire-1:before { content: "\f138"; }
+.flaticon-wheel-1:before { content: "\f139"; }
+.flaticon-transportation:before { content: "\f13a"; }
+.flaticon-support:before { content: "\f13b"; }
+.flaticon-mail:before { content: "\f13c"; }
+.flaticon-ui-2:before { content: "\f13d"; }
+.flaticon-correct:before { content: "\f13e"; }
+.flaticon-minus:before { content: "\f13f"; }
+.flaticon-cancel:before { content: "\f140"; }
+.flaticon-done:before { content: "\f141"; }
+.flaticon-tyre:before { content: "\f142"; }
+.flaticon-fuel:before { content: "\f143"; }
+.flaticon-wheel-2:before { content: "\f144"; }
+.flaticon-steering-wheel:before { content: "\f145"; }
+.flaticon-oil-gauge:before { content: "\f146"; }
+.flaticon-fuel-1:before { content: "\f147"; }
+    
+    $font-Flaticon-ui: "\f100";
+    $font-Flaticon-commerce-and-shopping: "\f101";
+    $font-Flaticon-commerce-and-shopping-1: "\f102";
+    $font-Flaticon-setup: "\f103";
+    $font-Flaticon-phone: "\f104";
+    $font-Flaticon-map: "\f105";
+    $font-Flaticon-arrow: "\f106";
+    $font-Flaticon-expand-button: "\f107";
+    $font-Flaticon-back: "\f108";
+    $font-Flaticon-cross: "\f109";
+    $font-Flaticon-motor: "\f10a";
+    $font-Flaticon-wheel: "\f10b";
+    $font-Flaticon-car: "\f10c";
+    $font-Flaticon-oil: "\f10d";
+    $font-Flaticon-brake: "\f10e";
+    $font-Flaticon-key: "\f10f";
+    $font-Flaticon-tick: "\f110";
+    $font-Flaticon-sports-and-competition: "\f111";
+    $font-Flaticon-tire: "\f112";
+    $font-Flaticon-sports-and-competition-1: "\f113";
+    $font-Flaticon-turbo: "\f114";
+    $font-Flaticon-wrench: "\f115";
+    $font-Flaticon-oil-1: "\f116";
+    $font-Flaticon-dashboard: "\f117";
+    $font-Flaticon-car-1: "\f118";
+    $font-Flaticon-instagram: "\f119";
+    $font-Flaticon-quote: "\f11a";
+    $font-Flaticon-spare: "\f11b";
+    $font-Flaticon-motor-1: "\f11c";
+    $font-Flaticon-add-plus-button: "\f11d";
+    $font-Flaticon-plus-black-symbol: "\f11e";
+    $font-Flaticon-add: "\f11f";
+    $font-Flaticon-plus: "\f120";
+    $font-Flaticon-plus-1: "\f121";
+    $font-Flaticon-eye: "\f122";
+    $font-Flaticon-heart: "\f123";
+    $font-Flaticon-like: "\f124";
+    $font-Flaticon-eye-1: "\f125";
+    $font-Flaticon-comment-black-oval-bubble-shape: "\f126";
+    $font-Flaticon-play-arrow: "\f127";
+    $font-Flaticon-link: "\f128";
+    $font-Flaticon-link-1: "\f129";
+    $font-Flaticon-chain: "\f12a";
+    $font-Flaticon-link-2: "\f12b";
+    $font-Flaticon-link-3: "\f12c";
+    $font-Flaticon-share: "\f12d";
+    $font-Flaticon-chat: "\f12e";
+    $font-Flaticon-user: "\f12f";
+    $font-Flaticon-user-1: "\f130";
+    $font-Flaticon-chat-1: "\f131";
+    $font-Flaticon-automaton: "\f132";
+    $font-Flaticon-gear: "\f133";
+    $font-Flaticon-ui-1: "\f134";
+    $font-Flaticon-mission: "\f135";
+    $font-Flaticon-focus: "\f136";
+    $font-Flaticon-vision: "\f137";
+    $font-Flaticon-tire-1: "\f138";
+    $font-Flaticon-wheel-1: "\f139";
+    $font-Flaticon-transportation: "\f13a";
+    $font-Flaticon-support: "\f13b";
+    $font-Flaticon-mail: "\f13c";
+    $font-Flaticon-ui-2: "\f13d";
+    $font-Flaticon-correct: "\f13e";
+    $font-Flaticon-minus: "\f13f";
+    $font-Flaticon-cancel: "\f140";
+    $font-Flaticon-done: "\f141";
+    $font-Flaticon-tyre: "\f142";
+    $font-Flaticon-fuel: "\f143";
+    $font-Flaticon-wheel-2: "\f144";
+    $font-Flaticon-steering-wheel: "\f145";
+    $font-Flaticon-oil-gauge: "\f146";
+    $font-Flaticon-fuel-1: "\f147";
